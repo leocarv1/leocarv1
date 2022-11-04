@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leocarv1
 - 👀 I’m interested in learning about everything
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on anything Ican
 
 
